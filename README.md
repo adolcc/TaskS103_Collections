@@ -7,7 +7,7 @@ Key Topics:
 ArrayList manipulation : creation, insertion, ordering, and traversal with custom classes like Month.
 HashSet usage : ensuring uniqueness, handling duplicates, and overriding equals() and hashCode() methods.
 Iterators : using for loops and Iterator for reading collections, and ListIterator for advanced operations like reverse traversal.
-Custom object modeling , such as the Restaurante class, to manage business logic within collections.
+Custom object modeling , such as the Restaurant class, to manage business logic within collections.
 Learning Approach:
 
 These exercises are structured to build a solid foundation in Java collections from scratch, helping learners understand how each structure behaves and how to use them effectively in real-world scenarios.
