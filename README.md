@@ -30,7 +30,7 @@ Java JDK 21 or higher installed IntelliJ IDEA (Community or Ultimate) Git instal
 
 **Installation**
 
-Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git
+Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS104_Testing
 
 ---
 
