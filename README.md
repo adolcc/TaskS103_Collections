@@ -6,13 +6,19 @@ This repository contains the first programming exercise focused on Inheritance a
 
 The objective was to strengthen our understanding of object-oriented programming by creating a class hierarchy that demonstrates inheritance and polymorphic behavior.
 
+---
+
 I completed this exercise with the help of:
 
 Classmates YouTube tutorials Google searches Owen (AI assistant) Previous assignments from Programming Fundamentals
 
+---
+
 Technologies Used
 
 Java 21 IntelliJ IDEA Online documentation and tutorials
+
+---
 
 Requirements
 
@@ -20,13 +26,19 @@ To run this project locally, you will need:
 
 Java JDK 21 or higher installed IntelliJ IDEA (Community or Ultimate) Git installed and configured
 
+---
+
 Installation
 
 Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git
 
+---
+
 Execution
 
 Upload the proyect to you favorite IDE.
+
+---
 
 Contributions
 
@@ -45,6 +57,8 @@ Push your branch to GitHub:
 git push origin feature/YourFeatureName
 
 Submit a Pull Request so, I can review and merge your changes!
+
+---
 
 Contact
 
