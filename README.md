@@ -1,4 +1,4 @@
-# Java Testing Exercises for Beginners
+**Java Testing Exercises for Beginners**
 
 This repository contains a series of beginner-friendly Java exercises focused on **unit testing using JUnit 5**. Each exercise is designed to help you understand and apply different aspects of automated testing in Java, including assertions, exception handling, collection validation, and more.
 
