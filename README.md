@@ -8,19 +8,19 @@ Whether you're learning Java for the first time or practicing how to write testa
 
 ---
 
-I completed this exercise with the help of:
+**I completed this exercise with the help of:**
 
 Classmates YouTube tutorials Google searches Owen (AI assistant) Previous assignments from Programming Fundamentals
 
 ---
 
-Technologies Used
+**Technologies Used**
 
 Java 21 IntelliJ IDEA Online documentation and tutorials
 
 ---
 
-Requirements
+**Requirements**
 
 To run this project locally, you will need:
 
@@ -28,19 +28,19 @@ Java JDK 21 or higher installed IntelliJ IDEA (Community or Ultimate) Git instal
 
 ---
 
-Installation
+**Installation**
 
 Clone the repository to your local machine: git clone https://github.com/adolcc/TaskS100_InheritancePolymorphism.git
 
 ---
 
-Execution
+**Execution**
 
 Upload the proyect to you favorite IDE.
 
 ---
 
-Contact
+**Contact**
 
 If you have any questions or suggestions, feel free to contact me at:
 
