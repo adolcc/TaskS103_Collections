@@ -48,26 +48,6 @@ Upload the proyect to you favorite IDE.
 
 ---
 
-Contributions
-
-Contributions are welcome! Here's how you can contribute:
-
-Fork this repository. Create a new branch:
-
-git checkout -b feature/YourFeatureName
-
-Make your changes and commit them:
-
-git commit -m "Add feature/YourFeatureName"
-
-Push your branch to GitHub:
-
-git push origin feature/YourFeatureName
-
-Submit a Pull Request so, I can review and merge your changes!
-
----
-
 Contact
 
 If you have any questions or suggestions, feel free to contact me at:
