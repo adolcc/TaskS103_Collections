@@ -1,10 +1,8 @@
-**Java Testing Exercises for Beginners**
+**Java Collections Exercises**
 
-This repository contains a series of beginner-friendly Java exercises focused on **unit testing using JUnit 5**. Each exercise is designed to help you understand and apply different aspects of automated testing in Java, including assertions, exception handling, collection validation, and more.
+This repository contains a collection of solved exercises focused on Java Collections Framework. These exercises are designed to help understand and practice the use of different data structures such as ArrayList, HashSet, HashMap, and iterators like ListIterator and Iterator.
 
-The exercises are structured with clean code organization and follow good practices such as separation of concerns and meaningful test cases.
-
-Whether you're learning Java for the first time or practicing how to write testable code, this collection will guide you through the fundamentals of testing in a simple and educational way.
+Each exercise demonstrates key concepts like object manipulation, ordering, uniqueness, and file handling in Java.
 
 ---
 
